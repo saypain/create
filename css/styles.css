@@ -1,0 +1,299 @@
+body{
+    margin-top: 0px;
+
+
+}
+
+.whitediv{
+    background-color: red;
+    position: absolute;
+    margin-left: 300px;
+    border-radius: 25px;
+    top: 10px;
+   
+}
+
+.bluediv{
+    background-color:  hsl(252, 100%, 67%);
+    background-image: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+    width: 250px;    
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    border-radius: 25px;
+    height: 380px;
+    
+
+}
+.last-line{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgb(175, 180, 185);
+    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    
+}
+.last-lines{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgb(175, 180, 185);
+    margin-top: 0px;
+
+    
+}
+.Great{
+    font-weight: 500;
+    color: aliceblue;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-top: 210px;
+}
+
+h3{
+    color: antiquewhite;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-top: 20px;
+
+    
+}
+
+.Memory{
+    margin-left: 200px;
+    color: hsl(39, 100%, 56%)
+}
+.Verbal{
+    margin-left: 200px;
+    color: hsl(166, 100%, 37%);
+}
+.Visual{
+    margin-left: 200px;
+    color: hsl(234, 85%, 45%);
+}
+.Reaction-div{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: hsla(0, 100%, 90%,0.3);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+.reaction-img{
+    position: relative;
+
+}
+.reaction{
+    margin: 30px;
+    margin-left: 20px;
+    color: hsl(0, 100%, 67%);
+    margin-left: 7px;
+}
+.Memory-div{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: hsl(39, 100%, 90%,0.3);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+.Memory-img{
+    position: relative;
+
+}
+.Memory{
+    margin: 30px;
+    margin-left: 20px;
+    color: hsl(39, 100%, 56%);
+    margin-left: 7px;
+}
+
+.Verbal-div{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: hsl(166, 100%, 90%,0.3);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+.Verbal-img{
+    position: relative;
+
+}
+.Verbal{
+    margin: 30px;
+    margin-left: 20px;
+    color: hsl(166, 100%, 37%);
+    margin-left: 7px;
+}
+
+.Visual-div{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: hsl(234, 85%, 90%,0.3);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+.Visual-img{
+    position: relative;
+
+}
+.Visual{
+    margin: 30px;
+    margin-left: 20px;
+    color: hsl(234, 85%, 45%);
+    margin-left: 7px;
+}
+.summary-txt{
+
+    margin-left: 300px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+.right-div{
+    position: absolute;
+}
+.round-div{
+    position: absolute;
+    width: 90px;
+    border-radius: 100px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 100;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 20px;
+    text-align: center;
+    background-image: linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+    margin-left: 50px;
+    top: 80px;
+}
+.big76{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 100;
+    color: aliceblue;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 3px;
+    margin-top: 30px;
+}
+h2{
+    margin-top: 30px;
+}
+.continue{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: hsl(39, 100%, 56%,0.3);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+.button {
+    -webkit-border-radius: 35px;
+    position: relative;
+    top: 30px;
+    margin-left: 300px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    height: 15px;
+    line-height: 13px;
+    color: #FFFFFF;
+    font-family: 'Hanken Grotesk', sans-serif;
+    width: 220px;
+    font-size: 1rem;
+    font-weight: 300px;
+    padding: 20px;
+    background-color: #05182E;
+    -webkit-box-shadow: 1px 0 20px 0 #000000;
+    -moz-box-shadow: 1px 0 20px 0 #000000;
+    box-shadow: 1px 0 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+ .button:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+.dark{
+    color: hsl(224, 30%, 27%);
+    font-weight: bold;
+    
+
+}
+.darker{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 40px;
+}
+.light{
+    color: hsl(241, 100%, 89%);
+    
+}
+.shadow{
+    height: 380px;
+    width: 550px;
+    background-color:hsl(0, 0%, 100%);
+    margin-top: 10px;
+    border-radius: 5%;
+    text-shadow: 2px 2px red;
+    box-shadow: 15px 15px 15px #0f4a8730;
+}
+.Result{
+    color: antiquewhite;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
